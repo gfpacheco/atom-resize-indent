@@ -1,0 +1,12 @@
+{
+  "name": "resize-indent",
+  "main": "./lib/resize-indent",
+  "version": "0.0.0",
+  "description": "Easily change the indent size of a file",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/gfpacheco/atom-resize-indent",
+  "engines": {
+    "atom": ">0.61.0"
+  }
+}

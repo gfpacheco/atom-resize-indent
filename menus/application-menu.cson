@@ -1,0 +1,16 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      {
+        'label': 'Resize Indent'
+        'submenu': [
+          {
+            'label': 'Double size'
+            'command': 'resize-indent:double'
+          }
+        ]
+      }
+    ]
+  }
+]
