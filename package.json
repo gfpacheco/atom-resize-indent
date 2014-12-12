@@ -1,7 +1,7 @@
 {
   "name": "resize-indent",
   "main": "./lib/resize-indent",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Easily change the indent size of a file",
   "license": "MIT",
   "private": true,
