@@ -6,9 +6,9 @@ Easily change the indent size of a file
 Install the module with: `apm install resize-indent`
 
 ## Documentation
-For now two commands are available:
-- _Double_: double the indent size
-- _Halve_: split indent size in half
+There are two commands available:
+- **Ctrl+}** Doubles the indent size
+- **Ctrl+{** Split indent size in half
 
 ## License
 Copyright (c) 2014 . Licensed under the MIT license.
