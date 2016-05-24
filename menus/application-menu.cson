@@ -8,6 +8,10 @@
           {
             'label': 'Double size'
             'command': 'resize-indent:double'
+          },
+          {
+            'label': 'Halve size'
+            'command': 'resize-indent:halve'
           }
         ]
       }
